@@ -1,0 +1,58 @@
+[
+  {
+    "Pname": "Web Developer",
+    "country": "Canada",
+    "time": "Now",
+    "img": "/logo.png",
+    "Cname": "Novac Linus Co."
+  },
+  {
+    "Pname": "UI Designer",
+    "country": "Manchester",
+    "time": "14hr",
+    "img": "/logo2.png",
+    "Cname": "Liquid Accessments"
+  },
+  {
+    "Pname": "Software Eng",
+    "country": "Austria",
+    "time": "10hr",
+    "img": "/logo3.png",
+    "Cname": "Web Tech Agency"
+  },
+  {
+    "Pname": "UI/UX Designer",
+    "country": "Germany",
+    "time": "10hr",
+    "img": "/logo4.png",
+    "Cname": "Nike"
+  },
+  {
+    "Pname": "Product Designer",
+    "country": "India",
+    "time": "Now",
+    "img": "/logo5.png",
+    "Cname": "Wallmart"
+  },
+  {
+    "Pname": "Researcher",
+    "country": "Norway",
+    "time": "5hr",
+    "img": "/logo6.png",
+    "Cname": "Nin Co."
+  },
+  {
+    "Pname": "Lead Developer",
+    "country": "Leeds",
+    "time": "14hr",
+    "img": "/logo7.png",
+    "Cname": "Nimeloi-UK"
+  },
+  {
+    "Pname": "Data Scientist",
+    "country": "Turkey",
+    "time": "2days",
+    "img": "/logo8.png",
+    "Cname": "Nome And Sons"
+  }
+]
